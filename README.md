@@ -1,4 +1,6 @@
-# `<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Manoj+%F0%9F%91%8B;Full+Stack+Developer;Android+Developer;Open+Source+Learner;Always+Building+Something+Awesome!" alt="Typing SVG" />`{=html}
+# `<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Manoj+👋;Full+Stack+Developer;Android+Developer;Open+Source+Learner;Always+Building+Something+Awesome!" alt="Typing SVG" />
+</p>`{=html}
 
 ::: {align="center"}
 # 💻 MANOJ S
