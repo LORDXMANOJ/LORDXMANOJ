@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Manoj S, Full Stack and Android Developer, open to freelance and internships">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset="0.45" stop-color="#1F6FEB"/>
+      <stop offset="1" stop-color="#00C2FF"/>
+    </linearGradient>
+    <style>
+      .name { font: 700 64px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #ffffff; letter-spacing: 6px; }
+      .sub  { font: 500 22px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #e6edf3; }
+      .open { font: 600 24px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #ffffff; }
+      .tag  { font: 500 20px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #e6edf3; opacity: 0; animation: show 12s infinite; }
+      .t2 { animation-delay: 3s; }
+      .t3 { animation-delay: 6s; }
+      .t4 { animation-delay: 9s; }
+      @keyframes show {
+        0%, 2% { opacity: 0; }
+        6%, 22% { opacity: 1; }
+        26%, 100% { opacity: 0; }
+      }
+    </style>
+  </defs>
+  <rect width="1200" height="260" fill="url(#bg)"/>
+  <text x="600" y="100" text-anchor="middle" class="name">MANOJ S</text>
+  <text x="600" y="140" text-anchor="middle" class="sub">Full Stack Developer  |  Android Developer</text>
+  <text x="600" y="185" text-anchor="middle" class="open">Open to Freelance and Internships</text>
+  <text x="600" y="230" text-anchor="middle" class="tag t1">Web apps and dashboards</text>
+  <text x="600" y="230" text-anchor="middle" class="tag t2">Android apps with Jetpack Compose</text>
+  <text x="600" y="230" text-anchor="middle" class="tag t3">Interactive and 3D web UI</text>
+  <text x="600" y="230" text-anchor="middle" class="tag t4">Freelance first, internships too</text>
+</svg>
