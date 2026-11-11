@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Manoj S, Full Stack and Android Developer, open to freelance and internships" width="100%">
+<img src="banner.svg" alt="Manoj S, Full Stack and Android Developer, open to freelance and internships" width="100%">
 
 <p>
 <img src="https://img.shields.io/badge/Open%20To-Freelance-success?style=for-the-badge"/>
