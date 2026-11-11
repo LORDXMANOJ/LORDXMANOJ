@@ -220,6 +220,6 @@ share code, with video lessons.<br>
 
 ### *"First, solve the problem. Then, write the code."*
 
-<img src="assets/footer.svg" alt="" width="100%">
+<img src="footer.svg" alt="" width="100%">
 
 </div>
