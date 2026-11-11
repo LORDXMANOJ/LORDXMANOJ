@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,40:1F6FEB,100:00C2FF&text=MANOJ%20S&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Android%20Developer%20|%20Open%20to%20Freelance%20%26%20Internships&descAlignY=58"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2800&pause=900&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Manoj;Full+Stack+%26+Android+Developer;Open+to+Freelance+Projects;Also+Open+to+Internships)](https://git.io/typing-svg)
+<img src="assets/banner.svg" alt="Manoj S, Full Stack and Android Developer, open to freelance and internships" width="100%">
 
 <p>
 <img src="https://img.shields.io/badge/Open%20To-Freelance-success?style=for-the-badge"/>
@@ -34,12 +32,13 @@ Available for: Freelance projects (priority) and internships
 
 ## <img src="https://api.iconify.design/lucide/handshake.svg?color=%231F6FEB" width="22" height="22"> Work With Me
 
-| | What you need | How I can help |
-|---|---|---|
-| <img src="https://api.iconify.design/lucide/globe.svg?color=%231F6FEB" width="18" height="18"> | Web apps and dashboards | React with ASP.NET Core, Node or Django. JWT auth, PDF and Excel reports |
-| <img src="https://api.iconify.design/lucide/smartphone.svg?color=%231F6FEB" width="18" height="18"> | Android apps | Kotlin and Jetpack Compose, local storage, background reminders |
-| <img src="https://api.iconify.design/lucide/palette.svg?color=%231F6FEB" width="18" height="18"> | Interactive and 3D web UI | Scroll-driven animation, polished interfaces |
-| <img src="https://api.iconify.design/lucide/rocket.svg?color=%231F6FEB" width="18" height="18"> | Deployment | Docker setups, PostgreSQL and MongoDB backends |
+<img src="https://api.iconify.design/lucide/globe.svg?color=%231F6FEB" width="18" height="18"> **Web apps and dashboards**: React with ASP.NET Core, Node or Django. JWT auth, PDF and Excel reports.
+
+<img src="https://api.iconify.design/lucide/smartphone.svg?color=%231F6FEB" width="18" height="18"> **Android apps**: Kotlin and Jetpack Compose, local storage, background reminders.
+
+<img src="https://api.iconify.design/lucide/palette.svg?color=%231F6FEB" width="18" height="18"> **Interactive and 3D web UI**: scroll-driven animation and polished interfaces.
+
+<img src="https://api.iconify.design/lucide/rocket.svg?color=%231F6FEB" width="18" height="18"> **Deployment**: Docker setups, PostgreSQL and MongoDB backends.
 
 <img src="https://api.iconify.design/lucide/mail.svg?color=%231F6FEB" width="16" height="16"> **Start a project:** manoj.nive2007@gmail.com
 Typical response time: [YOUR_RESPONSE_TIME]
@@ -50,97 +49,90 @@ Typical response time: [YOUR_RESPONSE_TIME]
 
 Everything here is deployed. Click Live to open it.
 
-<table>
-<tr>
-<td width="46%" align="right">
+<div align="center">●<br>│</div>
+
+<div align="left">
 <img src="https://api.iconify.design/lucide/shopping-cart.svg?color=%231F6FEB" width="18" height="18"> <b>E-commerce Site</b><br>
-A full online store with a separate frontend and backend.<br>
+A full online store with a<br>
+separate frontend and backend.<br>
 <a href="https://e-commers-site-five.vercel.app"><img src="https://api.iconify.design/lucide/external-link.svg?color=%231F6FEB" width="14" height="14"> Live</a> &nbsp;|&nbsp; <a href="https://github.com/LORDXMANOJ/E-commers-site"><img src="https://api.iconify.design/simple-icons/github.svg?color=%23888888" width="14" height="14"> Code</a>
-</td>
-<td width="8%" align="center">●<br>│</td>
-<td width="46%"></td>
-</tr>
+</div>
 
-<tr>
-<td></td>
-<td align="center">│<br>●<br>│</td>
-<td align="left">
+<div align="center">│<br>●<br>│</div>
+
+<div align="right">
 <img src="https://api.iconify.design/lucide/badge-check.svg?color=%231F6FEB" width="18" height="18"> <b>ApproveFlow</b><br>
-A workflow app where requests go out for approval and alerts fire when something needs attention.<br>
+A workflow app where requests go<br>
+out for approval and alerts fire<br>
+when something needs attention.<br>
 <a href="https://approveflow-rust.vercel.app"><img src="https://api.iconify.design/lucide/external-link.svg?color=%231F6FEB" width="14" height="14"> Live</a> &nbsp;|&nbsp; <a href="https://github.com/LORDXMANOJ/alert-system"><img src="https://api.iconify.design/simple-icons/github.svg?color=%23888888" width="14" height="14"> Code</a>
-</td>
-</tr>
+</div>
 
-<tr>
-<td align="right">
+<div align="center">│<br>●<br>│</div>
+
+<div align="left">
 <img src="https://api.iconify.design/lucide/wallet.svg?color=%231F6FEB" width="18" height="18"> <b>Deposit Flow</b><br>
-Tracks a deposit from start to finish, one step at a time.<br>
+Tracks a deposit from start<br>
+to finish, one step at a time.<br>
 <a href="https://deposit-flow-kappa.vercel.app"><img src="https://api.iconify.design/lucide/external-link.svg?color=%231F6FEB" width="14" height="14"> Live</a> &nbsp;|&nbsp; <a href="https://github.com/LORDXMANOJ/deposit-flow"><img src="https://api.iconify.design/simple-icons/github.svg?color=%23888888" width="14" height="14"> Code</a>
-</td>
-<td align="center">│<br>●<br>│</td>
-<td></td>
-</tr>
+</div>
 
-<tr>
-<td></td>
-<td align="center">│<br>●<br>│</td>
-<td align="left">
+<div align="center">│<br>●<br>│</div>
+
+<div align="right">
 <img src="https://api.iconify.design/lucide/pen-line.svg?color=%231F6FEB" width="18" height="18"> <b>Blogspace</b><br>
-A blog you can read and write for, built with Next.js.<br>
+A blog you can read and write<br>
+for, built with Next.js.<br>
 <a href="https://blogspace-fawn.vercel.app"><img src="https://api.iconify.design/lucide/external-link.svg?color=%231F6FEB" width="14" height="14"> Live</a> &nbsp;|&nbsp; <a href="https://github.com/LORDXMANOJ/Blogspace"><img src="https://api.iconify.design/simple-icons/github.svg?color=%23888888" width="14" height="14"> Code</a>
-</td>
-</tr>
+</div>
 
-<tr>
-<td align="right">
+<div align="center">│<br>●<br>│</div>
+
+<div align="left">
 <img src="https://api.iconify.design/lucide/box.svg?color=%231F6FEB" width="18" height="18"> <b>FP155 Digital Twin</b><br>
-A digital twin demo that runs in the browser.<br>
+A digital twin demo that<br>
+runs in the browser.<br>
 <a href="https://fp155-digital-twin.vercel.app"><img src="https://api.iconify.design/lucide/external-link.svg?color=%231F6FEB" width="14" height="14"> Live</a>
-</td>
-<td align="center">│<br>●<br>│</td>
-<td></td>
-</tr>
+</div>
 
-<tr>
-<td></td>
-<td align="center">│<br>●<br>│</td>
-<td align="left">
+<div align="center">│<br>●<br>│</div>
+
+<div align="right">
 <img src="https://api.iconify.design/lucide/layout-dashboard.svg?color=%231F6FEB" width="18" height="18"> <b>Sahkar Setu</b><br>
-A dashboard that turns raw data into clear insights, in a green palette.<br>
+A dashboard that turns raw data<br>
+into clear insights, in a green palette.<br>
 <a href="https://sahkar-setu.vercel.app"><img src="https://api.iconify.design/lucide/external-link.svg?color=%231F6FEB" width="14" height="14"> Live</a> &nbsp;|&nbsp; <a href="https://github.com/LORDXMANOJ/sahkar-setu"><img src="https://api.iconify.design/simple-icons/github.svg?color=%23888888" width="14" height="14"> Code</a>
-</td>
-</tr>
+</div>
 
-<tr>
-<td align="right">
+<div align="center">│<br>●<br>│</div>
+
+<div align="left">
 <img src="https://api.iconify.design/lucide/orbit.svg?color=%231F6FEB" width="18" height="18"> <b>Exoplanet Hunter</b><br>
-An app for exploring exoplanet data, with a clean white interface.<br>
+An app for exploring exoplanet<br>
+data, with a clean white interface.<br>
 <a href="https://exoplanet-hunter-gt.vercel.app"><img src="https://api.iconify.design/lucide/external-link.svg?color=%231F6FEB" width="14" height="14"> Live</a> &nbsp;|&nbsp; <a href="https://github.com/LORDXMANOJ/Exoplanet-hunter-GT"><img src="https://api.iconify.design/simple-icons/github.svg?color=%23888888" width="14" height="14"> Code</a>
-</td>
-<td align="center">│<br>●<br>│</td>
-<td></td>
-</tr>
+</div>
 
-<tr>
-<td></td>
-<td align="center">│<br>●<br>│</td>
-<td align="left">
+<div align="center">│<br>●<br>│</div>
+
+<div align="right">
 <img src="https://api.iconify.design/lucide/activity.svg?color=%231F6FEB" width="18" height="18"> <b>Micro-Barometer Dashboard</b><br>
-A prototype for monitoring infrasound, built for Smart India Hackathon.<br>
+A prototype for monitoring<br>
+infrasound, built for<br>
+Smart India Hackathon.<br>
 <a href="https://micro-barometer-dashboard.vercel.app"><img src="https://api.iconify.design/lucide/external-link.svg?color=%231F6FEB" width="14" height="14"> Live</a> &nbsp;|&nbsp; <a href="https://github.com/LORDXMANOJ/micro-barometer-dashboard"><img src="https://api.iconify.design/simple-icons/github.svg?color=%23888888" width="14" height="14"> Code</a>
-</td>
-</tr>
+</div>
 
-<tr>
-<td align="right">
+<div align="center">│<br>●<br>│</div>
+
+<div align="left">
 <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%231F6FEB" width="18" height="18"> <b>Students Code</b><br>
-A place for students to learn and share code, with video lessons.<br>
+A place for students to learn and<br>
+share code, with video lessons.<br>
 <a href="https://students-code.vercel.app"><img src="https://api.iconify.design/lucide/external-link.svg?color=%231F6FEB" width="14" height="14"> Live</a> &nbsp;|&nbsp; <a href="https://github.com/LORDXMANOJ/students-code"><img src="https://api.iconify.design/simple-icons/github.svg?color=%23888888" width="14" height="14"> Code</a>
-</td>
-<td align="center">│<br>●</td>
-<td></td>
-</tr>
-</table>
+</div>
+
+<div align="center">│<br>●</div>
 
 ---
 
@@ -218,16 +210,16 @@ A place for students to learn and share code, with video lessons.<br>
 
 ## <img src="https://api.iconify.design/lucide/mail.svg?color=%231F6FEB" width="22" height="22"> Connect With Me
 
-| | Platform | Link |
-|---|---|---|
-| <img src="https://api.iconify.design/simple-icons/gmail.svg?color=%23EA4335" width="18" height="18"> | Email (freelance enquiries) | **manoj.nive2007@gmail.com** |
-| <img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%230A66C2" width="18" height="18"> | LinkedIn | https://www.linkedin.com/in/manojs2007/ |
-| <img src="https://api.iconify.design/simple-icons/github.svg?color=%23888888" width="18" height="18"> | GitHub | https://github.com/LORDXMANOJ |
+<img src="https://api.iconify.design/simple-icons/gmail.svg?color=%23EA4335" width="18" height="18"> **Email (freelance enquiries):** manoj.nive2007@gmail.com
+
+<img src="https://api.iconify.design/simple-icons/linkedin.svg?color=%230A66C2" width="18" height="18"> **LinkedIn:** https://www.linkedin.com/in/manojs2007/
+
+<img src="https://api.iconify.design/simple-icons/github.svg?color=%23888888" width="18" height="18"> **GitHub:** https://github.com/LORDXMANOJ
 
 <div align="center">
 
 ### *"First, solve the problem. Then, write the code."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:00C2FF,100:1F6FEB"/>
+<img src="assets/footer.svg" alt="" width="100%">
 
 </div>
